@@ -1,0 +1,23 @@
+{
+  "name": "log-reg",
+  "version": "1.0.0",
+  "description": "Login Registration Authentication",
+  "main": "index.html",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [],
+  "author": "Deep",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "express-session": "^1.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.9",
+    "pug": "^3.0.2"
+  }
+}
